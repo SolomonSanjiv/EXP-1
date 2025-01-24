@@ -1,0 +1,35 @@
+Time Required
+3 weeks
+
+Weather Apps 
+Weather apps are tools we use every day to plan everything from commutes to vacations. Over 2 billion people worldwide rely on these apps, which makes them an important area for developers to explore. Here are two simple yet useful weather app projects you can build.
+
+19. Live Weather Map
+This project lets users view real-time weather conditions on a map for any location they search. It shows details like temperature, humidity, and wind speed. The app refreshes every 15 seconds to ensure data stays up to date and can handle up to 10 searches at the same time. It’s a great tool for tracking weather in different places quickly.
+
+Who It’s For
+Perfect for beginners wanting to learn how to use APIs and display real-time data visually.
+
+Requirements
+Languages: Python, JavaScript, or Kotlin (for Android).
+Libraries: Requests, pandas (Python); Leaflet.js or Google Maps API for maps.
+APIs: OpenWeatherMap or WeatherStack for weather details.
+Frontend: HTML, CSS, JavaScript for the user interface.
+Explain the Project
+Fetch Weather Data: Use APIs like OpenWeatherMap to get weather details for specific locations.
+Map Integration: Show weather details on a map using tools like Leaflet.js or Google Maps.
+Search Feature: Let users search for weather by city name or coordinates.
+Live Updates: Refresh the weather information every 15 seconds.
+
+
+
+
+https://drive.google.com/drive/folders/1VuZAozNvWES5agsAdfto2sG8_aBRdKj4
+
+https://data-flair.training/blogs/deep-surveillance-with-deep-learning-intelligent-video-surveillance-project/
+
+
+https://www.electronicsforu.com/electronics-projects/hardware-diy/ai-camera-tracking-suspicious-activities
+
+
+https://www.electronicsforu.com/electronics-projects/sign-talk-a-gesture-language-translator
